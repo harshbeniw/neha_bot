@@ -27,7 +27,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>⍟───[ ʙᴏᴛ ᴅᴇᴛᴀɪʟꜱ ]───⍟
  ‣ ᴍʏ ɴᴀᴍᴇ : 𝗘𝗟𝗜𝗡𝗔_𝗕𝗢𝗧
- ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/IM_JISSHU'>ZISHAN</a> 
+ ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Bot_father_lover'>ZISHAN</a> 
  ‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://render.com'>ʀᴇɴᴅᴇʀ</a> 
  ‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ2.7.1 [sᴛᴀʙʟᴇ]></b>"""
 
@@ -94,9 +94,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/IM_JISSHU>☢VJ☢</a></b>
+ <b>✯ Maintained by : <a href=https://t.me/Bot_father_lover>☢VJ☢</a></b>
   
- <b>✯ Join here : <a href=https://t.me/IM_JISSHU>☢Join my updateds☢</a></b> 
+ <b>✯ Join here : <a href=https://t.me/Bot_father_lover>☢Join my updateds☢</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -220,7 +220,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
     CAPTION = """<b>{file_name}
 
-<b>💢 ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ : <a href='https://t.me/MAP_Originals_Backup'>𝗠𝗔𝗣 𝗕𝗮𝗰𝗸𝘂𝗽</a></b>""" 
+<b>💢 ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ : <a href='https://t.me/KH_NEW_MOVIES_PROVIDER'>𝗠𝗔𝗣 𝗕𝗮𝗰𝗸𝘂𝗽</a></b>""" 
 
     IMDB_TEMPLATE_TXT = """
 IMDb Data:
@@ -675,7 +675,7 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developers -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/IM_JISSHU'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a>
+-Dev 1 [Owner of this bot ]<a href='https://t.me/Bot_father_lover'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a>
 
 -Dev 2 <a href='https://t.me/movie_file_20'>VJ</a>
 
