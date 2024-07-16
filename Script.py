@@ -218,9 +218,9 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>{file_name}
+    CAPTION = """
 
-<b>💢 ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ : <a href='https://t.me/KH_NEW_MOVIES_PROVIDER'>𝗠𝗔𝗣 𝗕𝗮𝗰𝗸𝘂𝗽</a></b>""" 
+""" 📂 <i><a href="https://t.me/INFINITE_MOVIES_2024">{file_name}</a></i>\n\n""" 
 
     IMDB_TEMPLATE_TXT = """
 IMDb Data:
