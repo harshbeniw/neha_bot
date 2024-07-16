@@ -220,8 +220,8 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
     CAPTION = """
 
- 📂 <i><a href="https://t.me/INFINITE_MOVIES_2024">{file_name}</a></i>\n\n""" 
-
+ 📂 <blockquote><a href='https://t.me/INFINITE_MOVIES_2024'>{file_name}</a></blockquote>"""
+    
     IMDB_TEMPLATE_TXT = """
 IMDb Data:
 
